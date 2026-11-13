@@ -1,2 +1,3 @@
-# ai-skill-looksmaxing
-AI skill for looksmaxing analysis, aesthetics improvement, and physique visualization planning.
+# AI Skill: Looksmaxing
+
+Guidance for aesthetic self-improvement, physique goals, and progress visualization.

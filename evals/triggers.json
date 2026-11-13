@@ -1,0 +1,8 @@
+{
+  "skill": "looksmaxing",
+  "test_cases": [
+    {"input": "looksmaxing tips", "should_trigger": true},
+    {"input": "aesthetic physique goals", "should_trigger": true},
+    {"input": "fix my e-bike", "should_trigger": false}
+  ]
+}

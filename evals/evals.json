@@ -1,0 +1,8 @@
+{
+  "skill": "looksmaxing",
+  "test_cases": [
+    {"name": "physique", "input": "How to improve my physique for better aesthetics", "assertions": ["Covers training, diet, photos"]},
+    {"name": "pose", "input": "Best poses for muscle progress photos", "assertions": ["Suggests angles and lighting"]},
+    {"name": "analysis", "input": "Looksmaxing advice based on my stats", "assertions": ["Asks for or uses stats"]}
+  ]
+}
